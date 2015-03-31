@@ -19977,10 +19977,10 @@ Source: http://eshop.phoenixcontact.com .. 1729131.pdf</description>
 <part name="X8" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R2512" value="22k 1W"/>
 <part name="C4" library="resistor" deviceset="CPOL-US" device="F" value="100uF 100V"/>
-<part name="R7" library="resistor" deviceset="R-EU_" device="R0603" value="1k 1W"/>
+<part name="R7" library="resistor" deviceset="R-EU_" device="R0603" value="1k 0.1W"/>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R2512" value="10k 1W"/>
 <part name="C2" library="resistor" deviceset="CPOL-US" device="F" value="100uF 100V"/>
-<part name="R9" library="resistor" deviceset="R-EU_" device="R0603" value="1k 1W"/>
+<part name="R9" library="resistor" deviceset="R-EU_" device="R0603" value="1k 0.1W"/>
 </parts>
 <sheets>
 <sheet>

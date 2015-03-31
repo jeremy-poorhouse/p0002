@@ -1,0 +1,37 @@
+Partlist exported from /Users/jeremyhale/Documents/eagle/poorhouseamps/power_supply/root.sch at 2015-03-23 2:21 PM
+
+Part Value           Device          Package         Description                          
+C1   100uF 350V      CPOL-USE7.5-18  E7,5-18         POLARIZED CAPACITOR, American symbol 
+C2   100uF 100V      CPOL-USF        PANASONIC_F     POLARIZED CAPACITOR, American symbol 
+C4   100uF 100V      CPOL-USF        PANASONIC_F     POLARIZED CAPACITOR, American symbol 
+C5   100uF 350V      CPOL-USE7.5-18  E7,5-18         POLARIZED CAPACITOR, American symbol 
+C6   100uF 350V      CPOL-USE7.5-18  E7,5-18         POLARIZED CAPACITOR, American symbol 
+C7   100uF 350V      CPOL-USE7.5-18  E7,5-18         POLARIZED CAPACITOR, American symbol 
+C8   100uF 350V      CPOL-USE7.5-18  E7,5-18         POLARIZED CAPACITOR, American symbol 
+D1   S1M             S1M             SMA                                                  
+D2   S1M             S1M             SMA                                                  
+D3   S1M             S1M             SMA                                                  
+D4   S1M             S1M             SMA                                                  
+D5   S1M             S1M             SMA                                                  
+D6   S1M             S1M             SMA                                                  
+D7   S1M             S1M             SMA                                                  
+D8   S1M             S1M             SMA                                                  
+L1                   L-EUL4516C      L4516C          INDUCTOR, European symbol            
+R1   220k 1W         R-EU_R2512      R2512           RESISTOR, European symbol            
+R2   220k 1W         R-EU_R2512      R2512           RESISTOR, European symbol            
+R3   220k 1W         R-EU_R2512      R2512           RESISTOR, European symbol            
+R4   220k 1W         R-EU_R2512      R2512           RESISTOR, European symbol            
+R5   JUMPER          R-EU_R1206      R1206           RESISTOR, European symbol            
+R6   22k 1W          R-EU_R2512      R2512           RESISTOR, European symbol            
+R7   1k 1W           R-EU_R0603      R0603           RESISTOR, European symbol            
+R8   10k 1W          R-EU_R2512      R2512           RESISTOR, European symbol            
+R9   1k 1W           R-EU_R0603      R0603           RESISTOR, European symbol            
+X1   MKDSN1,5/3-5,08 MKDSN1,5/3-5,08 MKDSN1,5/3-5,08 MKDSN 1,5/ 3-5,08 Printklemme        
+X2   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X3   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X4   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X5   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X6   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X7   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X8   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        
+X9   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme        

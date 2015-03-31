@@ -2816,10 +2816,10 @@ design rules under a new name.</description>
 </element>
 <element name="R6" library="rcl" package="R2512" value="22k 1W" x="54.5" y="13.5" rot="R90"/>
 <element name="C4" library="resistor" package="PANASONIC_F" value="100uF 100V" x="47.5" y="17.5" rot="R270"/>
-<element name="R7" library="resistor" package="R0603" value="1k 1W" x="41.5" y="17.5" rot="R270"/>
+<element name="R7" library="resistor" package="R0603" value="1k 0.1W" x="41.5" y="17.5" rot="R270"/>
 <element name="R8" library="rcl" package="R2512" value="10k 1W" x="35.5" y="18" rot="R90"/>
 <element name="C2" library="resistor" package="PANASONIC_F" value="100uF 100V" x="28" y="17.5" rot="R270"/>
-<element name="R9" library="resistor" package="R0603" value="1k 1W" x="39.5" y="17.5" rot="R90"/>
+<element name="R9" library="resistor" package="R0603" value="1k 0.1W" x="39.5" y="17.5" rot="R90"/>
 </elements>
 <signals>
 <signal name="VPLATE">
